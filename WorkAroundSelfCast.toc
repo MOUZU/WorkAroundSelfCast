@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: WorkAroundSelfCast
+## Version: 1.0
+## Notes: Check the official GitHub-Repository to check which AddOns this version is compatible with.
+## Author: LYQ
+
+main.lua
