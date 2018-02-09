@@ -9,5 +9,7 @@ function workaround_PallyPowerBuffButton_OnClick(btn, mousebtn)
         SetCVar("autoSelfCast",0)
         hooked_PallyPowerBuffButton_OnClick(btn, mousebtn)
         SetCVar("autoSelfCast",1)
+    else
+        hooked_PallyPowerBuffButton_OnClick(btn, mousebtn)
     end
 end PallyPowerBuffButton_OnClick = workaround_PallyPowerBuffButton_OnClick
