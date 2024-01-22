@@ -6,6 +6,7 @@ Make sure that the folder is called like this and remove the '-master' if existi
 
 ## Supported AddOns
 * PallyPower
+* Decursive
 
 ## How to Contribute
 Feel free to let me know for which other, at the moment unsupported, AddOn this small workaround to enable the usage of autoSelfCast for. To submit requests please make use of this GitHub Repository. If you're another developer feel free to commit to this repository.
